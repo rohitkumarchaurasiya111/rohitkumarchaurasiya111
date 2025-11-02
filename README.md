@@ -2,7 +2,7 @@
 
 ### B.Tech in Computer Science & Engineering | 4th Year Student at KIIT University
 
-I'm an independent and self-motivated learner, currently pursuing my B.Tech in Computer Science & Engineering at Kalinga Institute of Industrial Technology (KIIT) with a 9.69 CGPA (till 6th semester). I have a strong passion for web development, algorithms, and problem-solving. I love working on projects that involve interactive and educational tools.
+I'm an independent and self-motivated learner, currently pursuing my B.Tech in Computer Science & Engineering at Kalinga Institute of Industrial Technology (KIIT). I have a strong passion for web development, algorithms, and problem-solving. I love working on projects that involve interactive and educational tools.
 
 - 🌍 Currently based in Bhubaneswar, India
 - 🎓 B.Tech CSE (2022-2026) | KIIT University
