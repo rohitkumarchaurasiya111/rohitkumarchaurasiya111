@@ -1,6 +1,6 @@
 # Hi there, I'm Rohit Kumar Chaurasiya! 👋
 
-### B.Tech in Computer Science & Engineering | 4th Year Student at KIIT University
+### M.Tech in Computer Science & Engineering | 1st Year Student at IIT Madras
 
 I'm an independent and self-motivated learner, currently pursuing my M.Tech in Computer Science & Engineering at Indian Institute Of Technology–Madras (IIT–Madras). I have a strong passion for web development, algorithms, and problem-solving. I love working on projects that involve interactive and educational tools.
 
