@@ -2,15 +2,16 @@
 
 ### B.Tech in Computer Science & Engineering | 4th Year Student at KIIT University
 
-I'm an independent and self-motivated learner, currently pursuing my B.Tech in Computer Science & Engineering at Kalinga Institute of Industrial Technology (KIIT). I have a strong passion for web development, algorithms, and problem-solving. I love working on projects that involve interactive and educational tools.
+I'm an independent and self-motivated learner, currently pursuing my M.Tech in Computer Science & Engineering at Indian Institute Of Technology–Madras (IIT–Madras). I have a strong passion for web development, algorithms, and problem-solving. I love working on projects that involve interactive and educational tools.
 
-- 🌍 Currently based in Bhubaneswar, India
+- 🌍 Currently based in Cheenai, India
 - 🎓 B.Tech CSE (2022-2026) | KIIT University
+- 🎓 M.Tech CSE (2026-2027) | IIT Madras
 - 💻 Actively seeking opportunities to grow as a developer
 - 📫 You can reach me at: rohitkumarchaurasiya111@gmail.com
 
 ### 💼 Experience
-- **Product Development Intern @ HighRadius Technologies** (May 2025 – Present | Hyderabad, India)  
+- **Product Development Intern @ HighRadius Technologies** (May 2025 – June 2026 | Hyderabad, India)  
   - Built scalable features using **Java, Spring Boot, and MySQL**.  
   - Developed reusable components & RESTful services, improving modularity and maintainability.  
   - Collaborated with manager & CTO to optimize inefficient code blocks, boosting performance.  
